@@ -1,0 +1,142 @@
+module.exports = {
+	menu: {
+		index: 'Papan Dashboard',
+		team: 'Pasukan saya',
+		detail: 'Perincian deposit',
+		reward: 'Pasukan saya',
+		rule: 'Peraturan'
+	},
+	common: {
+		contract: 'Alamat kontrak',
+		income: 'Penghasilan bulat',
+		time: 'Masa berjalan Platform',
+		down: 'Kiraan turun ke deposit',
+		success: 'Salin berjaya',
+		fail: 'Salinan gagal'
+	},
+	register: {
+		title: 'Daftar',
+		tips: 'Minta: Sila sahkan alamat undangan untuk ikat!',
+		reg: 'Sahkan',
+		error: 'Sila masukkan akaun pemain yang sah'
+	},
+	index: {
+		title: 'Protokol Buka DTM',
+		player: 'Bilangan pemain',
+		luck: 'Pool Beruntung',
+		top: 'Pool hadiah TOP',
+		fund: 'Dana asuransi',
+		save: 'Deposit',
+		enter: 'Klik untuk masukkan',
+		out: 'Tarik wang',
+		split: 'Bahagi akaun',
+		lv: 'Aras Saya',
+		total: 'Jumlah Pendapatan',
+		balance: 'Balance',
+		referrer: 'Referrer',
+		link: 'Sarankan',
+		luckReward: 'Hadiah Beruntung',
+		tip: 'Tidak berpartisipasi',
+		reward: 'Hadiah',
+		new: 'Deposit terakhir',
+		addr: 'Alamat pemain',
+		time: 'Masa deposit',
+		amount: 'Jumlah wang'
+	},
+	team: {
+		total: 'Total prestasi',
+		nums: 'Bilangan undangan',
+		a: 'Performasi Zon A',
+		b: 'Performasi Zon B'
+	},
+	deposit: {
+		title: 'Perincian deposit',
+		nums: 'Kuantiti',
+		save: 'Masa deposit',
+		thaw: 'Masa penggulian',
+		income: 'Keuntungan',
+		status: 'Keadaan',
+		wait: 'Untuk berkaitan',
+		freeze: 'Membeku'
+	},
+	winner: {
+		luck: 'Pemain Beruntung',
+		top: 'Pemain TOP'
+	},
+	save: {
+		title: 'Deposit',
+		tip: 'Deposit minimum ialah 100USDT, jumlah deposit ialah ganda 100USDT, dan deposit maksimum ialah 2000USDT.',
+		tips: 'Sila masukkan jumlah',
+		t1: '10 hari awal adalah satu siklus, dan pendapatan minggu adalah 12%.',
+		t2: 'Fasa I: sehingga 1000 USDT',
+		t3: 'Tahap II: hingga 1500USDT',
+		t4: 'Fasa III: hingga 2000 USDT',
+		t5: 'Setelah matang tempoh deposit, perlu terus deposit dalam tempoh berikutnya dan jumlah yang lebih besar atau sama dengan jumlah deposit dalam tempoh sebelumnya sebelum penarikan. Satu hari tempoh pembekuan akan ditambah untuk setiap tiga deposit. Tiada pendapatan akan ditambah, dan peningkatan maksimum 25 hari tidak akan ditambah'
+	},
+	out: {
+		title: 'Tarik wang',
+		ben: 'Utama',
+		income: 'Kembalian siklik',
+		reward: 'hadiah',
+		freeze: 'Beku',
+		luck: 'Hadiah bertuah',
+		top: 'Hadiah TOP',
+		fund: 'Dana asuransi',
+		ok: 'Jumlah yang diinginkan',
+		draw: 'Tarik wang'
+	},
+	split: {
+		title: 'Bahagi akaun',
+		save: 'Deposit',
+		balance: 'Balance',
+		tip: 'Deposit minimum ialah 100USDT, jumlah deposit ialah ganda 100USDT, dan deposit maksimum ialah 2000USDT.',
+		change: 'Transfer',
+		addr: 'Menerima alamat',
+		t1: 'Sila masukkan jumlah',
+		t2: 'Menerima alamat',
+		t3: '10% bayaran pemindahan ditempatkan dalam kontrak'
+	},
+	about: {
+		title: 'Pelayanan yang mudah, pendapatan yang stabil, logik yang kuat, membolehkan pelbagai keuangan!',
+		t1: 'Kejelasan dan terbukaan',
+		t2: 'Data rangkaian blok terbuka bagi semua orang, dan sesiapa pun boleh tanya data rangkaian blok atau mengembangkan aplikasi yang berkaitan!',
+		t3: 'Automatikan pelaksanaan kontrak',
+		t4: 'Pastikan efisiensi pelaksanaan kontrak dengan memenuhi kontrak!',
+		t5: 'Kelahiran Protokol terbuka DTM akan secara perlahan-lahan berubah dari reformer kewangan terhapus kepada benchmark dalam industri kewangan terhapus dan menjadi pengusaha pemulihan kewangan.',
+		luck: 'Beruntung',
+		top: 'Hadiah TOP',
+		fund: 'Dana asuransi',
+		r1: 'Sepenuhnya terhapus',
+		r2: 'Perjanjian persetujuan',
+		r3: 'Cycle 10 days, return 12%',
+		r4: 'Sumber terbuka kod kontrak pintar diuji oleh kuasa pihak ketiga',
+		url: 'laporan audit',
+		a1: 'Kod sumber terbuka',
+		a2: 'Pendekentralisasi',
+		a3: 'Tiada parti projek',
+		a4: 'Kontrak cerdas',
+		a5: 'Tidak dapat mengganggu',
+		a6: 'Keselamatan dana',
+		a7: 'Buang kebenaran',
+		a8: 'Buka dan lutsinar',
+		a9: 'Keadilan dan keadilan',
+		a10: 'Stable for a long time'
+	},
+	other: {
+		lv: 'Tiada grad',
+		reg: 'Di bawah pendaftaran...',
+		auth: 'untuk memberikan keizinan',
+		authing: 'Di bawah kebenaran...',
+		save: 'Dalam deposit...',
+		draw: 'Menarik...',
+		change: 'Dalam pemindahan...',
+		tip: 'Minta: Sila masukkan pautan undangan yang betul',
+		yes1: 'log masuk berjaya！',
+		yes2: 'Pengunduran berjaya！',
+		yes3: 'Deposit berjaya！',
+		yes4: 'Pemindahan berjaya！',
+		tip1: 'Sila masukkan berbilang dari 100',
+		tip2: 'Sila masukkan alamat/kuantiti dengan betul',
+		tip3: 'Deposit minimum 100USDT'
+	}
+}

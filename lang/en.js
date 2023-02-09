@@ -1,0 +1,142 @@
+module.exports = {
+	menu: {
+		index: 'Dashboard',
+		team: 'Teams',
+		detail: 'Deposit',
+		reward: 'Winners',
+		rule: 'Rule'
+	},
+	common: {
+		contract: 'Contract Address',
+		income: 'Cycle Income',
+		time: 'Platform Running Time',
+		down: 'Countdown to deposits',
+		success: 'Copy succeeded',
+		fail: 'Copy failed'
+	},
+	register: {
+		title: 'Register',
+		tips: 'Prompt: Please confirm the invitation address to bind!',
+		reg: 'Confirm',
+		error: 'Please enter a valid player account'
+	},
+	index: {
+		title: 'DTM Open Protocol',
+		player: 'Players',
+		luck: 'Lucky Award Pool',
+		top: 'Top Award Pool',
+		fund: 'Insurance Fund',
+		save: 'Deposit',
+		enter: 'Click to enter',
+		out: 'Withdraw',
+		split: 'Split Account',
+		lv: 'My Level',
+		total: 'Total Revenue',
+		balance: 'Balance',
+		referrer: 'Referrer',
+		link: 'Promotion Link',
+		luckReward: 'Lucky Award',
+		tip: 'Not participating',
+		reward: 'Reward',
+		new: 'Latest Deposit',
+		addr: 'Address',
+		time: 'Time',
+		amount: 'Amount'
+	},
+	team: {
+		total: 'Total performance',
+		nums: 'Number of invitees',
+		a: 'Zone A performance',
+		b: 'Zone B performance'
+	},
+	deposit: {
+		title: 'Deposit details',
+		nums: 'Amount',
+		save: 'Deposit time',
+		thaw: 'Thawing time',
+		income: 'Cyclical return',
+		status: 'Status',
+		wait: 'Waiting',
+		freeze: 'Frozen'
+	},
+	winner: {
+		luck: 'Lucky Player',
+		top: 'TOP Player'
+	},
+	save: {
+		title: 'Deposit',
+		tip: 'The minimum deposit is 100USDT, the deposit amount is a multiple of 100USDT, and the maximum deposit is 2000USDT.',
+		tips: 'Please enter the amount',
+		t1: 'The initial 10 days is a cycle, and the weekly income is 12%.',
+		t2: 'Phase I: up to 1000USDT',
+		t3: 'Phase II: up to 1500USDT',
+		t4: 'Phase III: up to 2000 USDT',
+		t5: 'After the maturity of a period of deposit, it is necessary to continue to deposit in the next period and the amount is greater than or equal to the deposit amount in the previous period before withdrawal. One day of freezing period will be added for every three deposits. No income will be added, and the maximum increase of 25 days will not be added'
+	},
+	out: {
+		title: 'Withdraw',
+		ben: 'Principal',
+		income: 'Cyclical return',
+		reward: 'Reward',
+		freeze: 'Frozen',
+		luck: 'Lucky award',
+		top: 'TOP reward',
+		fund: 'Insurance fund',
+		ok: 'Desirable amount',
+		draw: 'Withdraw'
+	},
+	split: {
+		title: 'Split Account',
+		save: 'Deposit',
+		balance: 'Balance',
+		tip: 'The minimum deposit is 100USDT, the deposit amount is a multiple of 100USDT, and the maximum deposit is 2000USDT.',
+		change: 'Transfer',
+		addr: 'Receiving address',
+		t1: 'Please enter the amount',
+		t2: 'Please enter the payment address',
+		t3: '10% of the transfer fee is deposited in the contract'
+	},
+	about: {
+		title: 'Flexible investment, stable income, strong closed-loop logic, enabling financial diversification!',
+		t1: 'Transparency and openness',
+		t2: 'The blockchain data is open to everyone, and anyone can query the blockchain data or develop relevant applications!',
+		t3: 'Automation of contract execution',
+		t4: 'Ensure the efficiency of contract execution by fulfilling the contract!',
+		t5: 'The birth of DTM Open Protocol will gradually turn from a reformer of decentralized finance to a benchmark in the decentralized financial industry and become the founder of financial remodeling.',
+		luck: 'Lucky Award',
+		top: 'TOP Award',
+		fund: 'Insurance fund',
+		r1: 'Fully decentralized',
+		r2: 'Consensus agreement',
+		r3: 'Cycle 10 days, return 12%',
+		r4: 'The open source of smart contract code is audited by a third-party authority',
+		url: 'Audit Report',
+		a1: 'Open source',
+		a2: 'Decentralization',
+		a3: 'No project party',
+		a4: 'Smart contract',
+		a5: 'Cannot tamper',
+		a6: 'Fund security',
+		a7: 'Discard permission',
+		a8: 'Open & Transparent',
+		a9: 'Fairness & Justice',
+		a10: 'Stable & Long'
+	},
+	other: {
+		lv: 'No grade',
+		reg: 'Registering...',
+		auth: 'Grant',
+		authing: 'Granting...',
+		save: 'Depositing...',
+		draw: 'Withdrawing...',
+		change: 'Transferring...',
+		tip: 'Prompt: Please enter the correct invitation link',
+		yes1: 'login was successful！',
+		yes2: 'Withdrawal succeeded！',
+		yes3: 'Deposit succeeded！',
+		yes4: 'Transfer succeeded！',
+		tip1: 'Please enter a multiple of 100',
+		tip2: 'Please enter the address/quantity correctly',
+		tip3: 'Minimum deposit 100USDT'
+	}
+}
